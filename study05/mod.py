@@ -15,3 +15,5 @@ if __name__ == '__main__':
     print(safe_sum('a', 1))
     print(safe_sum(1,2))
     print(sum(1, 10.4))
+    
+print("---------------------------")
